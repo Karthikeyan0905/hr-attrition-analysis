@@ -65,7 +65,7 @@ Rate the next two statements from 1 to 5 (same scale as above).
 
 ## Thank you
 
-Thank you for your time and honesty. We will share a summary of what we heard, and the steps we plan to take, within [number] weeks.
+Thank you for your time and honesty. We will share a summary of what we heard, and the steps we plan to take, within 4 weeks.
 
 ---
 
